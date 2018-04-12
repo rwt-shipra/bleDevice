@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shiprarawat/Desktop/BluetoothReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/shiprarawat/Desktop/BluetoothReactNative/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shiprarawat/Desktop/bleDevice/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/shiprarawat/Desktop/bleDevice/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
